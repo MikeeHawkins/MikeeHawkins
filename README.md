@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on CADENCE
+- Mehcanical Engineer at Cal Poly Pomona
 
 <!--
 **MikeeHawkins/MikeeHawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
